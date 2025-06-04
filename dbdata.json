@@ -1,0 +1,23 @@
+{
+  data: {
+    "code": "0",
+    "msg": "成功",
+    "head": {
+        "version": 2
+    },
+    "body": {
+        "itemList": [
+            {
+                "prdId": "18",
+                "prdName": "电话费18",
+                "prdIncome": 18
+            },
+            {
+                "prdId": "2",
+                "prdName": "电话费2",
+                "prdIncome": 2
+            }
+        ]
+    }
+}
+}
